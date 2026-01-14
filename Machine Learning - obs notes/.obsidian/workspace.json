@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "a9df60097595cc14",
+    "type": "split",
+    "children": [
+      {
+        "id": "16d02a965235791f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ba1debf3c6f6726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "74849da9d7327dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classical Machine learning - Intro.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classical Machine learning - Intro"
+            }
+          },
+          {
+            "id": "ba643ccf8917a58f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 days of machine learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "100 days of machine learning"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "645d21b40249e93c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ade2eaacba14f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bf9cd659dd77df3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4da081e871335e38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "557c1638b662f355",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53d450d9386583fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "97791a64041403b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8512ca3d28c779d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classical Machine learning - Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Classical Machine learning - Intro"
+            }
+          },
+          {
+            "id": "72bda26e4695b4bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Classical Machine learning - Intro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Classical Machine learning - Intro"
+            }
+          },
+          {
+            "id": "dfef7976c5066817",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b4693bc4d14b3ad9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Classical Machine learning - Intro.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Classical Machine learning - Intro"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ba643ccf8917a58f",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 1.base",
+    "100 days of machine learning.md",
+    "Stochastic Modelling.md",
+    "Classical Machine learning - Intro.md",
+    "Yearly upgrade - commitments.md",
+    "Welcome.md",
+    "🎬 VIDEO SUMMARY SCRIPT – The ONE Thing (Chapters 10–12).md",
+    "desktop.ini"
+  ]
+}
